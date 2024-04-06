@@ -1,0 +1,21 @@
+
+@font-face {
+	font-family: Square;
+	src: "https://strlen.com/files/square.ttf";
+}
+
+body {
+	margin: 0px;
+}
+
+.image {
+	font-family: Square, Consolas, monospace;
+	text-wrap-mode: nowrap;
+	font-size: 7.470711697349847%;
+	letter-spacing: unset;
+	transform: unset;
+
+	display: block;
+	box-sizing: border-box;
+	text-align: center;
+}
